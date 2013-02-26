@@ -5,7 +5,7 @@ Database Administration Dashboard
 
 Covered under LGPL, initially by Mark Nielsen. 
 However, make donations under Public Domain. It easier to change to a new license or perhaps
-make some libraries GPL instead of LGPL. Think about how Mongo does licensing. 
+make some libraries GPL instead of LGPL. 
 Only donations in public domain will be accepted for now. 
 
 Initially, everything will be written in Python. 
